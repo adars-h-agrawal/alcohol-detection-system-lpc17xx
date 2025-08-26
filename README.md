@@ -31,18 +31,19 @@ This project demonstrates how **microcontrollers interface with sensors, ADC, an
 
 ---
 
-## 📂 Project Structure
-|── src/
-|   └── main.c
-|── docs/
-|   └── block_diagram.png  
-|   └── prerequisites.png  
-|   └── output_1.png  
-|   └── output_2.png  
-|   └── output_3.png  
-|── README.md
-└── LICENSE
-
+📦 Project Root
+├── 📂 src/
+│   └── main.c
+│
+├── 📂 docs/
+│   ├── block_diagram.png
+│   ├── prerequisites.png
+│   ├── output_1.png
+│   ├── output_2.png
+│   └── output_3.png
+│
+├── 📄 README.md
+└── 📄 LICENSE
 
 
 ---
