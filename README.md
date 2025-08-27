@@ -52,12 +52,7 @@ This project demonstrates how **microcontrollers interface with sensors, ADC, an
 1. The **MQ-3 sensor** detects alcohol vapors and generates an analog signal.  
 2. The **LPC17xx ADC** converts this analog signal into a digital value.  
 3. The value is processed to calculate alcohol concentration.  
-4. The **LCD** displays the percentage, while the **buzzer** alerts when the threshold is exceeded.  
-
----
-
-## 📸 Demo
-(Add images or GIFs here if you have circuit photos or simulation screenshots.)  
+4. The **LCD** displays the percentage, while the **buzzer** alerts when the threshold is exceeded.   
 
 ---
 
