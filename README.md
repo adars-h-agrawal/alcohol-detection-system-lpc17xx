@@ -41,7 +41,7 @@ This project demonstrates how **microcontrollers interface with sensors, ADC, an
 |   |── output_1.png    
 |   |── output_2.png    
 |   |── output_3.png      
-|   |── report.pdf
+|   |── report.pdf  
 |    
 |── 📄 README.md    
 |── 📄 LICENSE      
