@@ -60,7 +60,15 @@ This project demonstrates how **microcontrollers interface with sensors, ADC, an
 ## 🔮 Future Improvements
 - 📡 Integrate with **GSM / Wi-Fi module** to send alerts remotely.  
 - 🚦 Add **ignition lock system** for vehicles.  
-- 📊 Log alcohol concentration data for monitoring.  
+- 📊 Log alcohol concentration data for monitoring.
+
+---
+
+## 👥 Authors
+
+- **Adarsh Agrawal**  
+- **Ayush Mishra**  
+- **Sankalp Amogh**
 
 ---
 
